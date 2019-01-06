@@ -1,0 +1,20 @@
+		<!-- section -->
+		<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">	
+					<!-- post -->
+					<div class="col-md-6">
+						<div class="post post-thumb">
+							<a class="post-img" href="sejarahkelahirannabi.html"><img src="./img/nabi.jpg" alt=""></a>
+							<div class="post-body">
+								<div class="post-meta">
+									<a class="post-category cat-2" href="sejarah.html">Sejarah</a>
+									<span class="post-date">01 Januari 2019
+								</div>
+								<h3 class="post-title"><a href="sejarahkelahirannabi.html">Sejarah Kelahiran Nabi Muhammad SAW</a></h3>
+							</div>
+						</div>
+					</div>
+					<!-- /post -->
